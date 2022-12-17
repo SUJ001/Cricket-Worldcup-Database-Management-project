@@ -1,0 +1,40 @@
+tr {
+    height: 30px;
+}
+
+td img {
+    padding-right: 10px;
+}
+
+td {
+    text-decoration: solid;
+   
+}
+
+.suj4 {
+    color:black;
+    font-weight: bold;
+}
+
+.sujtab {
+    width: 100%;
+    background-color: black;
+    color: beige;
+    margin-top: 40px;
+    margin-left: 0%;
+    border-radius: 12px;
+    transition: transform 0.2s;
+}
+
+.sujtab:hover{
+    transform:scale(1.2);
+}
+
+th {
+    padding-left: 15px;
+}
+
+td {
+    padding-left: 16px;
+}
+

@@ -1,0 +1,126 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.abhinav{
+    margin-right: 15px;
+    font-size: larger;
+}
+.fade-in-image { animation: fadeIn 1s; }
+@keyframes fadeIn {
+    from {
+        opacity: 0.5;
+        transform: translateY(25px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+  }}
+
+#login{
+background-color: #0D1635;
+}
+
+  .container{
+
+    margin-top: 100px;
+    max-width: 80%;
+    background-color: white;
+    padding: 23px;
+
+  }
+
+  .suj{
+    padding-left: 100px; 
+    line-height: 10px;
+  }
+
+  .sky{
+   background-color:rgb(57, 197, 176) ;
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 20px;
+   height: 60px;
+   border-radius: 15px;
+  }
+
+  .s1{
+    background-color: rgb(163, 167, 186);
+    width: 60%;
+    margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 20px;
+   height: 45px;
+   border-radius: 12px;
+   text-align: center;
+   text-decoration: solid;
+   transition: transform 0.2s;
+  }
+
+  .s1 img{
+    height: 36px;
+    margin-left: 10px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: left;
+  }
+
+  .s1:hover{
+    background-color: rgb(57, 197, 176);
+    transform: scale(1.1);
+  }
+
+  .s2{
+    background-color: rgb(163, 167, 186);
+    width: 60%;
+    margin-left: 20%;
+   margin-right: 20%;
+   margin-top: 20px;
+   height: 45px;
+   border-radius: 12px;
+   text-align: center;
+   text-decoration: solid;
+   text-shadow: #0D1635;
+   transition: transform 0.2s;
+  }
+
+  .s2 img{
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+  }
+
+  .s2:hover{
+    background-color: rgb(57, 197, 176);
+    transform: scale(1.1);
+  }
+
+  .u1{
+    background-color: rgb(155, 255, 255);
+    height: 50px;
+  }
+  
+  .lineupcss{
+    background-color: #c1fbfc;
+    font-size:medium;
+    height:fit-content;
+  }
+
+  td img{
+    height: 10px;
+  }
+  
+  
+
+
+  
+
+
+
+  
+
+  
+

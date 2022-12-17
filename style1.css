@@ -1,0 +1,46 @@
+td img {
+    height: 20px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    padding-right: 3px;
+}
+
+tr {
+    height: 50px;
+}
+
+td, th{
+    padding-left: 5px;
+}
+
+td, table, th, tr{
+    border: 1px solid black; 
+    border-collapse: collapse;
+}
+
+.tsuj {
+    border-radius: 15px;
+    margin-top: 15px;
+    background-color: rgb(236, 255, 206);
+}
+
+button {
+    text-align: left;
+    background-color: rgb(236, 255, 206) ;
+    width: 100%;
+    border-color: rgb(236, 255, 206) ;
+    size: 100%;
+    height: 50px;
+    padding:0%;
+    margin:0%;
+    border-style: hidden;
+    border-radius: 7px;
+    transition: transform 0.2s;
+}
+
+button:hover{
+    transform:scale(1.05);
+    border-color: black;
+    border-style: solid;
+    border-width: 0.5px;
+}
